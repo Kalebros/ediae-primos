@@ -94,3 +94,4 @@ Esto asegura que el proyecto se ejecute con las dependencias correctas y que el 
 - [Guía de uso de excepciones en Python](./doc/uso_de_excepciones_en_python.md)
 - [Guía de herencia y polimorfismo](./doc/herencia_y_polimorfismos.md)
 - [Guía de decoradores en Python](./doc/decoradores_en_python.md)
+- [Ejercicios de práctica](./doc/ejercicios_de_practica.md)
